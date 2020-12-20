@@ -1,0 +1,95 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/38/usr/bin/clang++ 
+Build flags: 
+Id flags:  
+
+The output was:
+127
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/38/usr/bin/clang++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+127
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/38/usr/bin/clang++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+127
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/38/usr/bin/clang++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+127
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/38/usr/bin/clang++ 
+Build flags: 
+Id flags:  
+
+The output was:
+127
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/38/usr/bin/clang++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+127
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/38/usr/bin/clang++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+127
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/38/usr/bin/clang++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+127
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /home/omar/AndroidStudioProjects/store/build/linux/profile/CMakeFiles/CMakeTmp
+
+Run Build Command:"/snap/flutter/38/usr/bin/ninja" "cmTC_22a91"
+[1/2] Building CXX object CMakeFiles/cmTC_22a91.dir/testCXXCompiler.cxx.o
+FAILED: CMakeFiles/cmTC_22a91.dir/testCXXCompiler.cxx.o 
+/snap/flutter/38/usr/bin/clang++     -o CMakeFiles/cmTC_22a91.dir/testCXXCompiler.cxx.o -c testCXXCompiler.cxx
+/snap/flutter/38/usr/bin/clang++: error while loading shared libraries: libtinfo.so.5: cannot open shared object file: No such file or directory
+ninja: build stopped: subcommand failed.
+
+

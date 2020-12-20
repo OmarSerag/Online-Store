@@ -1,0 +1,4 @@
+#Tue Dec 15 03:08:39 EET 2020
+base.0=/home/omar/AndroidStudioProjects/store/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

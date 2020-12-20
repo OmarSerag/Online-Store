@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/omar/AndroidStudioProjects/store/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/omar/.gradle/caches/transforms-2/files-2.1/5c37104fb3932ce6eb52642b06ec61e1/core-1.1.0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

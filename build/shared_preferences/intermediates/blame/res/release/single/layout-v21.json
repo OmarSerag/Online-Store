@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/omar/AndroidStudioProjects/store/build/shared_preferences/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/omar/.gradle/caches/transforms-2/files-2.1/4d7ca7cfd332ede54b99211c36484482/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/omar/AndroidStudioProjects/store/build/shared_preferences/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/omar/.gradle/caches/transforms-2/files-2.1/4d7ca7cfd332ede54b99211c36484482/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/omar/AndroidStudioProjects/store/build/shared_preferences/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/omar/.gradle/caches/transforms-2/files-2.1/4d7ca7cfd332ede54b99211c36484482/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/omar/AndroidStudioProjects/store/build/shared_preferences/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/omar/.gradle/caches/transforms-2/files-2.1/4d7ca7cfd332ede54b99211c36484482/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,22 @@
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:21
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:25
+-keep class com.example.store.MainActivity { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:152
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:167
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:157
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:163
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:131
+-keep class com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:94
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:112
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:67
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /home/omar/AndroidStudioProjects/store/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:142
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
